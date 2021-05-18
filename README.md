@@ -14,3 +14,8 @@ To play, just run the .exe file located in the "DinoJump" directory. Make sure y
 1. This was a learning project for my first game; although the code is not well-organized, it functions properly, which was my primary goal.
 2. Please do not file any issue reports or make commits. This project will not be updated.
 3. Do not use this raw, unmodified version to submit as a project for any course. The MIT License is provided, but I'd rather save myself a headache and not have to deal with unncessesary plagiarism accusations.
+
+# Screenshots
+![Game Over](https://github.com/amizu03/DinoJump/blob/main/assets/game_over.png)
+![In-Game](https://github.com/amizu03/DinoJump/blob/main/assets/in_game.png)
+![Title Screen](https://github.com/amizu03/DinoJump/blob/main/assets/title_screen.png)
